@@ -22,5 +22,6 @@ Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 boo
 - Analysis on Affect of length of book title on User Rating.
 - Analysis on Popularity and Length of Book Title.
 - Analysis on Top 10 best selling authors.
+- Trends over the years
 - Reviews' Analysis.
 - Analysis on Genres.
